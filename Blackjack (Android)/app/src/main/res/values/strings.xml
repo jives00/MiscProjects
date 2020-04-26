@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="spade_symbol">\u2660</string>
+    <string name="club_symbol">\u2663</string>
+    <string name="heart_symbol">\u2665</string>
+    <string name="diamond_symbol">\u2666</string>
+    <string name="statsFile">CurrentStats</string>
+    <string name="creditstitle">Credits</string>
+    <string name="GameTitle">GameTitle: BlackJack</string>
+    <string name="Creator">Created by</string>
+    <string name="Name1">Jeff Bromberek</string>
+    <string name="Name2">Connor Taylor</string>
+    <string name="Name3">Michael Lehmen</string>
+    <string name="Name4">Ryosuke Katsumata</string>
+    <string name="reminder_channel">blackjack_reminder_notifications</string>
+    <string name="stats_file">blackjack_stats</string>
+    <string name="funds_file">current_funds</string>
+    <string name="funds_key">currentFunds</string>
+    <string name="max_cash_key">maxCash</string>
+    <string name="biggest_win_key">biggestWin</string>
+    <string name="biggest_loss_key">biggestLoss</string>
+    <string name="total_wins_key">totalWins</string>
+    <string name="total_losses_key">totalLosses</string>
+    <string name="total_pushes_key">totalPushes</string>
+    <string name="player_blackjacks_key">playerBlackjacks</string>
+    <string name="house_blackjacks_key">houseBlackjacks</string>
+    <string name="player_busts_key">playerBusts</string>
+    <string name="house_busts_key">houseBusts</string>
+    <string name="total_bankruptcies_key">totalBankruptcies</string>
+</resources>
